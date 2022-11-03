@@ -22,6 +22,8 @@
 
 
 ## My Skill Set  
+
+
 <table><tr><td valign="top" width="25%">
 
 ### Frontend  
@@ -77,7 +79,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" />  
 </div>
 
-</td></tr></table>   
+</td></tr></table>  
 
 <br/>  
 
